@@ -22,7 +22,8 @@ check if the pods/nodes are running
 
 
 
-Install Kubernetes plugins and Create Jenkins Pipeline
+Install Kubernetes plugins and Create Jenkins Pipeline,
+
 Jenkinsfile will be needed as well to help us create the Jenkins pipeline that checks if wp namespace exists, if it doesn’t then it creates one.
 also will check if WordPress exists, if it doesn’t then it installs the chart.
 ![Jenkind pipeline](https://github.com/monikakostovska/Final-Project-Assessment-for-Scalefocus-Academy/assets/85322121/d028da4b-2791-49aa-8639-0db3e140e03b)
